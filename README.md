@@ -1,1 +1,3 @@
 # telegrambotpem
+
+npm init
